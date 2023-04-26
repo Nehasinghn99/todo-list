@@ -1,0 +1,28 @@
+[ 
+{ 
+    "firstname": "ajay", 
+    "lastname": "sharma", 
+     "age": 26 
+}, 
+{ 
+    "firstname": "vishnu", 
+    "lastname": "saini", 
+     "age": 75 
+} , 
+{ 
+    "firstname": "donald", 
+    "lastname": "trump", 
+     "age": 50 
+},
+{ 
+    "firstname": "XYZ", 
+    "lastname": "trump", 
+     "age": 75 
+}, { 
+    "firstname": "vashali", 
+    "lastname": "saini", 
+     "age": 75 
+}  
+ 
+    ] 
+ 

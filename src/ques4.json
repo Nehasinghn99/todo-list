@@ -1,0 +1,11 @@
+{  
+"name":"Jack singh", 
+ "age":30, 
+ "contactNumbers": 
+[  
+{ "type":"aacdb", "number":"123 123-123" },  
+{ "type":"gafd", "number":"321 321-321" }  
+], 
+ "spouse":null, 
+ "favoriteSports":[ "Football", "Cricket"] 
+ } 
